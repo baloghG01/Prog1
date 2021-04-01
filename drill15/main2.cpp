@@ -17,12 +17,12 @@ struct Person
 		age=a;
 	}
 
-	//getters
+	
 	string get_first_name() const {return first_name;}
 	string get_last_name() const {return last_name;}
 	int get_age() const {return age;}
 
-	//setters
+	
 	void set_first_name(string n){first_name=n;}
 	void set_last_name(string n){last_name=n;}
 	void set_age(int a){age=a;}
@@ -88,8 +88,8 @@ int main()
 	cin>>p2;
 	cout<<p2<<endl;
 
-/*	Person AllMight ("Yagi",55);
-	cout<<AllMight<<endl;
+/*	Person Zeus ("God",55);
+	cout<<Zeus<<endl;
 */
 	cout<<"Give names to the vector:"<<endl;
 
