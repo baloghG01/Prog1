@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619550450 source:c:\users\tunde\onedrive\dokumentumok\audacity\drill\19 drill\main.cpp
+	<iostream>
+	<vector>
+
